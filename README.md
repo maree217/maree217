@@ -20,14 +20,14 @@
 
 ## 🎯 **AI Business Consulting Expertise**
 
-I help organizations **identify AI opportunities**, **build compelling business cases**, and **implement production-ready solutions** using proven Microsoft technologies. My methodology: **AI Strategy → Business Case → Prototype → Production → Adoption**.
+I help organisations **identify AI opportunities**, **build compelling business cases**, and **implement production-ready solutions** using proven Microsoft technologies. My methodology: **AI Strategy → Business Case → Prototype → Production → Adoption**.
 
 ### **Core Competencies**
 ```
 💼 AI Strategy Development     🎯 AI Opportunity Workshops    🚀 Solution Implementation
-📊 Business Case Building      🤝 Stakeholder Alignment       📈 Performance Optimization  
+📊 Business Case Building      🤝 Stakeholder Alignment       📈 Performance Optimisation  
 ⚙️  Process Mining & Analysis   🎪 Executive Presentations     👥 User Training & Adoption
-💰 ROI Analysis & Modeling     📋 Requirements Gathering       🔄 Change Management
+💰 ROI Analysis & Modelling     📋 Requirements Gathering       🔄 Change Management
 ```
 
 ---
@@ -110,7 +110,7 @@ I help organizations **identify AI opportunities**, **build compelling business 
 
 <div align="center">
 
-**Ready to identify AI opportunities in your organization?**
+**Ready to identify AI opportunities in your organisation?**
 
 [![Book Consultation](https://img.shields.io/badge/📅%20Book%20AI%20Strategy%20Session-AICapabilityBuilder.com-blue?style=for-the-badge)](https://aicapabilitybuilder.com)
 [![LinkedIn Connect](https://img.shields.io/badge/🤝%20Connect%20on%20LinkedIn-rammaree-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/rammaree)
