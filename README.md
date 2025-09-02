@@ -1,14 +1,14 @@
-# Ram Senthil-Maree | AI Business Consultant & Solutions Architect
+# Ram Senthil-Maree | AI Solutions Architect & Engineer
 
 <div align="center">
 
-![AI Consultant](https://img.shields.io/badge/AI%20Business%20Consultant-15%2B%20Years-blue?style=for-the-badge)
+![AI Consultant](https://img.shields.io/badge/AI%20Solutions%20Architect-15%2B%20Years-blue?style=for-the-badge)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-Certified-0078D4?style=for-the-badge&logo=microsoft-azure)
-![Enterprise Solutions](https://img.shields.io/badge/Enterprise%20AI-Solutions%20Architect-green?style=for-the-badge)
+![Enterprise Solutions](https://img.shields.io/badge/Hands--On%20AI-Engineer-green?style=for-the-badge)
 
-**Principal AI Consultant** at [AICapabilityBuilder.com](https://aicapabilitybuilder.com)  
-🚀 Transforming organizations through intelligent automation  
-🎯 Microsoft Copilot • Semantic Kernel • Multi-Agent Systems
+**AI Solutions Architect & Engineer** at [AICapabilityBuilder.com](https://aicapabilitybuilder.com)  
+🚀 **Hands-on AI implementation** with rapid prototyping expertise  
+🎯 **Infrastructure as Code • Cloud Architecture • Agent Automation**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rammaree-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/rammaree)
 [![Email](https://img.shields.io/badge/Email-2maree%40gmail.com-red?style=flat-square&logo=gmail)](mailto:2maree@gmail.com)
@@ -18,16 +18,16 @@
 
 ---
 
-## 🎯 **AI Business Consulting Expertise**
+## 🛠️ **Hands-On AI Engineering Expertise**
 
-I help organisations **identify AI opportunities**, **build compelling business cases**, and **implement production-ready solutions** using proven Microsoft technologies. My methodology: **AI Strategy → Business Case → Prototype → Production → Adoption**.
+I don't just strategise—I **build and deploy AI solutions**. Using modern development tools and **cloud-native architectures**, I take organisations from concept to working prototype in weeks, not months. My approach: **Rapid Prototyping → Solution Validation → Production Deployment**.
 
-### **Core Competencies**
+### **Core Engineering Competencies**
 ```
-💼 AI Strategy Development     🎯 AI Opportunity Workshops    🚀 Solution Implementation
-📊 Business Case Building      🤝 Stakeholder Alignment       📈 Performance Optimisation  
-⚙️  Process Mining & Analysis   🎪 Executive Presentations     👥 User Training & Adoption
-💰 ROI Analysis & Modelling     📋 Requirements Gathering       🔄 Change Management
+🔧 Rapid AI Prototyping        🚀 Claude Code Development     ⚡ Infrastructure as Code
+🛠️ Solution Architecture       🤖 Agent Automation Systems    🎯 Real-World Problem Solving
+⚙️ Microsoft Stack Integration  ☁️ Cloud Architecture Design   📈 Performance Optimisation
+🔄 Anthropic & OpenAI APIs     💻 Multi-Agent Orchestration   👥 Technical Team Leadership
 ```
 
 ---
