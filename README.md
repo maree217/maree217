@@ -74,8 +74,9 @@ I architect enterprise AI solutions using a **proven three-layer approach**, tak
 
 **AI-powered strategic decision support and forecasting**
 
-[![Azure AI Foundry Showcase](https://github-readme-stats.vercel.app/api/pin/?username=maree217&repo=azure-ai-foundry-showcase&theme=blue-green)](https://github.com/maree217/azure-ai-foundry-showcase)
-[![Strategic Forecasting AI](https://github-readme-stats.vercel.app/api/pin/?username=maree217&repo=strategic-forecasting-ai&theme=blue-green)](https://github.com/maree217/strategic-forecasting-ai)
+### **🔗 Strategic Intelligence Repositories**
+**[Azure AI Foundry Showcase](https://github.com/maree217/azure-ai-foundry-showcase)** - Enterprise GenAIOps framework with strategic forecasting  
+**[Strategic Forecasting AI](https://github.com/maree217/strategic-forecasting-ai)** - Executive decision support with scenario planning
 
 - **Azure AI Foundry** implementations for advanced forecasting and predictive modelling
 - **Generative AI applications** enabling sophisticated business modelling and market analysis
