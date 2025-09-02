@@ -22,6 +22,9 @@
 
 I architect enterprise AI solutions using a **proven three-layer approach**, taking organisations from concept to production in weeks. Each layer builds on Microsoft's enterprise-ready technologies with hands-on implementation expertise.
 
+### **🚀 Production-Ready Framework**
+**[Three-Layer AI Framework](https://github.com/maree217/three-layer-ai-framework)** - Complete production implementation with working code, case studies, and deployment templates
+
 <div align="center">
 
 ```
@@ -46,8 +49,8 @@ I architect enterprise AI solutions using a **proven three-layer approach**, tak
 
 **Intelligent interfaces that users actually want to use**
 
-[![Enterprise AI Solutions](https://github-readme-stats.vercel.app/api/pin/?username=maree217&repo=enterprise-ai-solutions&theme=blue-green)](https://github.com/maree217/enterprise-ai-solutions)
-[![Universal Conversation Coach](https://github-readme-stats.vercel.app/api/pin/?username=maree217&repo=universal-conversation-coach&theme=blue-green)](https://github.com/maree217/universal-conversation-coach)
+**[Enterprise AI Solutions](https://github.com/maree217/enterprise-ai-solutions)** - Microsoft Copilot plugins and RAG chatbots  
+**[Universal Conversation Coach](https://github.com/maree217/universal-conversation-coach)** - AI-powered communication training
 
 - **Microsoft 365 Copilot** custom plugins for document processing & workflow automation
 - **Conversational AI** with advanced RAG capabilities and domain-specific knowledge
@@ -60,8 +63,8 @@ I architect enterprise AI solutions using a **proven three-layer approach**, tak
 
 **Transform organisational data into actionable intelligence**
 
-[![Data Engineering Journey](https://github-readme-stats.vercel.app/api/pin/?username=maree217&repo=data-engineering-journey&theme=blue-green)](https://github.com/maree217/data-engineering-journey)
-[![Enterprise Agent Toolkit](https://github-readme-stats.vercel.app/api/pin/?username=maree217&repo=enterprise-agent-toolkit&theme=blue-green)](https://github.com/maree217/enterprise-agent-toolkit)
+**[Data Engineering Journey](https://github.com/maree217/data-engineering-journey)** - ETL/ELT pipelines and data governance  
+**[Enterprise Agent Toolkit](https://github.com/maree217/enterprise-agent-toolkit)** - Multi-agent automation systems
 
 - **Knowledge graphs** integrating multiple data sources with intelligent relationship mapping
 - **Real-time data pipelines** analysing workflows to identify automation opportunities
