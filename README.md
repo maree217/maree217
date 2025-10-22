@@ -151,6 +151,16 @@ I architect enterprise AI solutions using a **proven three-layer approach**, tak
 
 <div align="center">
 
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maree217&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maree217&layout=compact&theme=default&hide_border=true&langs_count=8)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maree217&theme=default&hide_border=true)
+
+---
+
 ![Profile Views](https://komarev.com/ghpvc/?username=maree217&color=blue&style=flat-square)
 [![GitHub followers](https://img.shields.io/github/followers/maree217?label=Follow&style=social)](https://github.com/maree217)
 
