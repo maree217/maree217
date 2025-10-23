@@ -38,7 +38,7 @@ Implementation repositories for production-ready patterns:
 | [three-layer-ai-framework](https://github.com/maree217/three-layer-ai-framework) ⭐ | Microsoft Copilot Stack | Python, Azure AI | 🚀 Production |
 | [azure-ai-foundry-showcase](https://github.com/maree217/azure-ai-foundry-showcase) | Microsoft Copilot Stack | Python, Azure AI Foundry | 🚀 Production |
 | [enterprise-agent-toolkit](https://github.com/maree217/enterprise-agent-toolkit) | Multi-Agent Systems | TypeScript, Azure | 🚀 Production |
-| [semantic-kernel-production-patterns](https://github.com/maree217/semantic-kernel-production-patterns) | Semantic Kernel | Python, C#, SK | 📅 Planned (P0) |
+| [semantic-kernel-production-patterns](https://github.com/maree217/semantic-kernel-production-patterns) | Semantic Kernel | Python, C#, SK | 🚀 Production |
 | [rag-architecture-blueprints](https://github.com/maree217/rag-architecture-blueprints) | RAG Architectures | Python, Azure AI Search | 📅 Planned (P0) |
 | [multi-agent-orchestration-cookbook](https://github.com/maree217/multi-agent-orchestration-cookbook) | Multi-Agent Systems | Python, AutoGen, LangGraph | 📅 Planned (P2) |
 | [azure-copilot-production-stack](https://github.com/maree217/azure-copilot-production-stack) | Production Deployment | Azure, Bicep, Redis | 📅 Planned (P2) |
@@ -205,8 +205,8 @@ Each article repository includes:
 |--------|-------|
 | **KB Sections** | 7 |
 | **Total Repositories** | 48 |
-| **Production Repos** | 17 |
-| **Planned Repos** | 19 |
+| **Production Repos** | 18 |
+| **Planned Repos** | 18 |
 | **Code Examples** | 50+ |
 | **Architecture Diagrams** | 20+ |
 | **Production Case Studies** | 4+ |
@@ -222,7 +222,7 @@ Currently implementing **5 Priority 0 repositories**:
 
 1. ✅ **copilot-architect-kb** - Central knowledge hub (COMPLETE)
 2. ✅ **kb-implementation-examples** - 6 production examples deployed (COMPLETE)
-3. 🚧 **semantic-kernel-production-patterns** - Most requested SK resource
+3. ✅ **semantic-kernel-production-patterns** - 2 patterns deployed (COMPLETE)
 4. 🚧 **rag-architecture-blueprints** - Complete RAG reference implementation
 5. 🚧 **llm-evaluation-production-toolkit** - Fills critical gap in ecosystem
 6. 🚧 **microsoft-ai-reality-check** - 6 articles with working code
@@ -288,7 +288,7 @@ Curated list of 60+ repositories aligned with my KB:
 ## 🎯 2025 Goals
 
 - ✅ Launch comprehensive Knowledge Base (**COMPLETE**)
-- 🎯 Publish 20+ production-ready repositories (6/20 done)
+- 🎯 Publish 20+ production-ready repositories (7/20 done)
 - 🎯 Publish 6 thought leadership articles
 - 🎯 Reach 500+ aggregate stars across repos
 - 🎯 Train 100+ students in BA GenAI program
