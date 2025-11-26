@@ -23,13 +23,6 @@
 <img width="2752" height="1498" alt="Enterpise AI - 3 Layered Approach_cropped" src="https://github.com/user-attachments/assets/68875d21-5f2c-40da-adbe-0e5fd584c2b1" />
 
 
-**Industry Validation:**
-| Phase | Gartner | McKinsey | MIT CISR | Microsoft |
-|-------|---------|----------|----------|-----------|
-| **Layer 3** | Level 1-2 | Stage 1 | Stage 1 | Stage 1 |
-| **Layer 2** | Level 3 | Stage 2-3 | Stage 2 | Stage 2-3 |
-| **Layer 1** | Level 4 | Stage 4 | Stage 3 | Stage 4 |
-
 ---
 
 ## 🎨 Layer 1: End User Experience (Production Repos)
