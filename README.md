@@ -20,27 +20,8 @@
 
 **Framework Source:** Adapted from Gartner AI Maturity Model, McKinsey Strategic AI Framework, MIT CISR Enterprise AI Maturity Model, IBM AI Operating Model, Microsoft AI Transformation Journey
 
-```
-┌────────────────────────────────────────────────────────┐
-│  LAYER 1: END USER EXPERIENCE                         │
-│  What business users see and use                      │
-│  Build LAST → 6-9 months → 5-10x ROI                  │
-└────────────────────────────────────────────────────────┘
-                        ↕
-┌────────────────────────────────────────────────────────┐
-│  LAYER 2: ORGANIZATIONAL INTELLIGENCE (The Brain)      │
-│  Memory + Learning | Compute | Configuration/Logic    │
-│  Build SECOND → 6-9 months → 2-4x ROI                 │
-└────────────────────────────────────────────────────────┘
-                        ↕
-┌────────────────────────────────────────────────────────┐
-│  LAYER 3: INFRASTRUCTURE & OPERATIONS (Foundation)     │
-│  Orchestration | Observability | Security | Cost      │
-│  Build FIRST → 90 days → 30-50% cost savings          │
-└────────────────────────────────────────────────────────┘
-              ↕ GOVERNANCE & SECURITY ↕
-        (Ethics, Compliance, Risk - Spans All Layers)
-```
+<img width="2752" height="1498" alt="Enterpise AI - 3 Layered Approach_cropped" src="https://github.com/user-attachments/assets/68875d21-5f2c-40da-adbe-0e5fd584c2b1" />
+
 
 **Industry Validation:**
 | Phase | Gartner | McKinsey | MIT CISR | Microsoft |
